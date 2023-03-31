@@ -1,0 +1,774 @@
+{
+  "id": "https://www.thegazette.co.uk/all-notices/notice/data.feed?&results-page=1",
+  "link": [
+    {
+      "@href": "https://www.thegazette.co.uk/all-notices/notice/data.feed?&results-page=1",
+      "@rel": "alternate",
+      "@type": "application/atom+xml",
+      "@title": "ATOM"
+    },
+    {
+      "@href": "https://www.thegazette.co.uk/all-notices/notice/data.json?&results-page=1",
+      "@rel": "first",
+      "@type": "application/json"
+    },
+    {
+      "@href": "https://www.thegazette.co.uk/all-notices/notice/data.json?&results-page=2",
+      "@rel": "next",
+      "@type": "application/json"
+    },
+    {
+      "@href": "https://www.thegazette.co.uk/all-notices/notice/data.json?&results-page=428774",
+      "@rel": "last",
+      "@type": "application/json"
+    },
+    {
+      "@href": "https://www.thegazette.co.uk/all-notices/notice/data.htm?&results-page=1",
+      "@rel": "alternate",
+      "@title": "HTML",
+      "@type": "application/xhtml+xml"
+    },
+    {
+      "@href": "https://www.thegazette.co.uk/all-notices/notice/data.json?&results-page=1",
+      "@rel": "self",
+      "@type": "application/json"
+    }
+  ],
+  "title": "Search Result",
+  "updated": "2023-03-27T09:14:09.633932Z",
+  "openSearch:Query": { "@role": "request" },
+  "f:page-number": "1",
+  "f:page-size": "10",
+  "f:page-start": "1",
+  "f:page-stop": "10",
+  "f:total": "4287732",
+  "f:total-errors": "4434",
+  "f:facets": null,
+  "entry": [
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4315924",
+      "f:status": "published",
+      "f:notice-code": "2603",
+      "title": "CAMBRIDGE BROADBAND NETWORKS LIMITED",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4315924",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4315924" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315924/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-24T14:34:32Z",
+      "published": "2023-03-24T14:34:31",
+      "category": { "@term": "Notice of Disclaimer" },
+      "content": "<div><p>NOTICE OF DISCLAIMER UNDER SECTION 1013 OF THE COMPANIES ACT 2006 1. In this Notice the following shall apply: Company Name: CAMBRIDGE BROADBAND NETWORKS LIMITED Previous Name of Company: Cambridge Br…</p></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4315922",
+      "f:status": "published",
+      "f:notice-code": "2603",
+      "title": "PROGEN SOLAR LTD",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4315922",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4315922" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315922/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-24T14:34:29Z",
+      "published": "2023-03-24T14:34:29",
+      "category": { "@term": "Notice of Disclaimer" },
+      "geo:Point": { "geo:lat": "51.67909", "geo:long": "-4.119697" },
+      "content": "<div><p>NOTICE OF DISCLAIMER UNDER SECTION 1013 OF THE COMPANIES ACT 2006 1. In this Notice the following shall apply: Company Name: PROGEN SOLAR LTD Previous Name of Company: Progen Marketing Limited Company…</p></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4315312",
+      "f:status": "published",
+      "f:notice-code": "2301",
+      "title": "Other Notices",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4315312",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4315312" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315312/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-24T12:16:25Z",
+      "published": "2023-03-24T12:16:24",
+      "category": { "@term": "Other Notices" },
+      "content": "<div><p>Department for Communities THE CORONAVIRUS ACT 2020 (EXTENSION OF PROVISIONS RELATING TO LOCAL AUTHORITY MEETINGS) ORDER(NORTHERN IRELAND) 2023 The Department for Communities has made a Statutory Rule…</p></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4315311",
+      "f:status": "published",
+      "f:notice-code": "2301",
+      "title": "Other Notices",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4315311",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4315311" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315311/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-24T12:16:24Z",
+      "published": "2023-03-24T12:16:23",
+      "category": { "@term": "Other Notices" },
+      "content": "<div><p>NOTICE IS HEREBY GIVEN, PURSUANT TO SECTIONS 1064 AND 1077 OF THE COMPANIES ACT 2006, THAT IN RESPECT OF THE UNDERMENTIONED COMPANY NOTICE OF APPOINTMENT OF A LIQUIDATOR WAS REGISTERED RECEIVED BY ME…</p></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4316159",
+      "f:status": "published",
+      "f:notice-code": "2903",
+      "title": "Dennis King",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4316159",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4316159" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316159/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-27T09:04:19Z",
+      "published": "2023-03-27T10:04:19",
+      "category": { "@term": "Deceased Estates" },
+      "geo:Point": { "geo:lat": "53.73965", "geo:long": "-2.991973" },
+      "content": "<div><dl><dt>Address of Deceased</dt><dd>Priory Court Nursing Home, LYTHAM ST. ANNES, FY8 1AL</dd><dt>Date of Claim Deadline</dt><dd><time datetime=\"2023-05-28\"></time></dd></dl></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4316240",
+      "f:status": "published",
+      "f:notice-code": "2903",
+      "title": "Eliona Wright",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4316240",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4316240" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316240/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-27T08:54:28Z",
+      "published": "2023-03-27T09:54:28",
+      "category": { "@term": "Deceased Estates" },
+      "geo:Point": { "geo:lat": "51.681", "geo:long": "-4.138621" },
+      "content": "<div><dl><dt>Address of Deceased</dt><dd>Hafan Y Coed Nursing Home, Nightingale Court, Llanelli, SA15 1HU</dd><dt>Date of Claim Deadline</dt><dd><time datetime=\"2023-05-28\"></time></dd></dl></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4316223",
+      "f:status": "published",
+      "f:notice-code": "2450",
+      "title": "WEETONS (WHOLESALE) LIMITED",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4316223",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4316223" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316223/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-27T08:34:20Z",
+      "published": "2023-03-27T09:34:20",
+      "category": { "@term": "Petitions to Wind Up (Companies)" },
+      "geo:Point": { "geo:lat": "53.98843", "geo:long": "-1.539862" },
+      "content": "<div><p>In the High Court of Justice CR-2023-CR-2023-LDS-000215 In the matter of WEETONS (WHOLESALE) LIMITED Trading As: Weetons (Wholesale) Limited , and in the Matter of the Insolvency Act 1986 , A Petition…</p></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4316215",
+      "f:status": "published",
+      "f:notice-code": "2443",
+      "title": "TROWBRIDGE PIZZA LIMITED",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4316215",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4316215" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4316215/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-27T08:04:19Z",
+      "published": "2023-03-27T09:04:19",
+      "category": { "@term": "Appointment of Liquidators" },
+      "content": "<div><p>Name of Company: TROWBRIDGE PIZZA LIMITED Company Number: 08277095 Company Type: Registered Company Nature of the business: Takeaway Business Trading as: Pizza Choice Type of Liquidation: Creditors&apos;V…</p></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4315254",
+      "f:status": "published",
+      "f:notice-code": "1110",
+      "title": "Appointment of Sheriffs",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4315254",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4315254" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4315254/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-24T12:15:32Z",
+      "published": "2023-03-24T12:15:32",
+      "category": { "@term": "Appointment of Sheriffs" },
+      "content": "<div><p>The Prince of Wales has been pleased to direct Letters Patent to be passed under the Privy Seal of His Royal Highness appointing Mr Toby George Howell Ashworth of Crosswyn House, St Ewe, St Austell in…</p></div>"
+    },
+    {
+      "id": "https://www.thegazette.co.uk/id/notice/4313705",
+      "f:status": "published",
+      "f:notice-code": "1115",
+      "title": "Lord Lieutenants",
+      "link": [
+        {
+          "@href": "https://www.thegazette.co.uk/id/notice/4313705",
+          "@rel": "self"
+        },
+        { "@href": "https://www.thegazette.co.uk/notice/4313705" },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.ttl",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.jsonld",
+          "@rel": "alternate",
+          "@title": "JSON-LD",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.rdf",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.ttl?view=linked-data",
+          "@rel": "alternate",
+          "@title": "TURTLE",
+          "@type": "text/turtle"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.json?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-SIMPLE",
+          "@type": "application/json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.rdfjson?view=linked-data",
+          "@rel": "alternate",
+          "@title": "JSON-RDF",
+          "@type": "application/rdf+json"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.rdf?view=linked-data",
+          "@rel": "alternate",
+          "@title": "RDF/XML",
+          "@type": "application/rdf+xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.xml?view=linked-data",
+          "@rel": "alternate",
+          "@title": "XML",
+          "@type": "application/xml"
+        },
+        {
+          "@href": "https://www.thegazette.co.uk/notice/4313705/data.html?view=linked-data",
+          "@rel": "alternate",
+          "@title": "HTML",
+          "@type": "application/html"
+        }
+      ],
+      "author": { "name": "tso" },
+      "updated": "2023-03-24T12:15:09Z",
+      "published": "2023-03-24T12:15:09",
+      "category": { "@term": "Lord Lieutenants" },
+      "geo:Point": { "geo:lat": "55.95365", "geo:long": "-3.183896" },
+      "content": "<div><p>THE SCOTTISH GOVERNMENT Office of the Secretary of Commissions, St. Andrew’s House, Edinburgh, EH1 3DG The King having been pleased to approve that Mr Andrew Townsend DL be appointed Vice Lord-Lieuten…</p></div>"
+    }
+  ]
+}
