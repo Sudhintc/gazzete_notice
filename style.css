@@ -10,3 +10,11 @@ li{
     border: 1px solid black;
     padding: 20px;
 }
+#buttons{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+#next,#prev{
+    padding: 5px;
+}

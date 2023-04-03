@@ -4,46 +4,87 @@
     <title>The Gazette Notice Feed</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-    <h1 style="text-align: center;">The Gazette Notice Feed</h1>
+    <h1 style="text-align: center">The Gazette Notice Feed</h1>
     <ul id="notice-list"></ul>
     <div id="pagination"></div>
+    <div id="buttons">
+      <button id="prev">Prev</button>
+      <button id="next">Next</button>
+    </div>
 
     <script>
+      const proxyUrl = "https://cors-anywhere.herokuapp.com/";
       const noticeList = document.getElementById("notice-list");
+      const url = "https://www.thegazette.co.uk/all-notices/notice/data.json";
+      const apiUrl = proxyUrl + url;
+      let currentPage = 1;
 
       const fetchData = async () => {
+        // const url = `${apiUrl}?results-page=${page}`;
+        // const url = 'notice.json'
+        while (noticeList.firstChild) {
+          noticeList.removeChild(noticeList.firstChild);
+        }
+
         const data = await fetch("notice.json");
+        console.log(data);
         const res = await data.json();
-        // console.log(res);
+        console.log(res["f:total"]);
         res.entry.forEach((ele) => {
           const li = document.createElement("li");
           const a = document.createElement("a");
 
+
           a.href = ele.link;
           a.textContent = ele.title;
-          console.log(ele);
+          // console.log(ele);
 
           li.appendChild(a);
           noticeList.appendChild(li);
 
           const publishDate = document.createElement("h3");
           const dateobj = new Date(ele.published);
-          publishDate.textContent = dateobj.toLocaleDateString("en-GB", {
-            day: "numeric",
-            month: "long",
-            year: "numeric",
-          });
+          publishDate.textContent =
+            "Publish Date:" +
+            " " +
+            dateobj.toLocaleDateString("en-GB", {
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            });
           li.appendChild(publishDate);
 
-          const content = document.createElement('p');
-          content.textContent=ele.content.replace(/<[^>]+>/g, '');
+          const content = document.createElement("p");
+          content.textContent = ele.content.replace(/<[^>]+>/g, "");
           li.appendChild(content);
         });
       };
-      fetchData();
+      fetchData(currentPage);
+
+      function pagination() {
+        const prevButton = document.querySelector("#prev");
+        const nextButton = document.querySelector("#next");
+        prevButton.disabled = currentPage === 1;
+        prevButton.addEventListener("click", prevPageNavigation);
+        nextButton.addEventListener("click", nextPageNavigation);
+        // nextButton.disabled = currentPage === totalPages;
+      }
+
+      function nextPageNavigation() {
+        currentPage++;
+        fetchData(currentPage);
+        pagination();
+      }
+
+      function prevPageNavigation() {
+        currentPage--;
+        fetchData(currentPage);
+        pagination();
+      }
+      pagination();
     </script>
   </body>
 </html>
